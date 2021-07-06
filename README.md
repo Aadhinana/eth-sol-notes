@@ -1,0 +1,1 @@
+Notes for Ethereum and Solidity
